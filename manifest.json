@@ -1,91 +1,377 @@
 {
-  "generatedAt": "2026-09-21T02:48:56.349Z",
+  "generatedAt": "2026-09-21T06:52:52.003Z",
   "zzzCharacters": {
-    "妮可": {
-      "ok": true,
-      "file": "妮可立绘.png",
-      "size": 695121
-    },
-    "莱卡恩": {
-      "ok": true,
-      "file": "莱卡恩立绘.png",
-      "size": 634479
-    },
-    "丽娜": {
-      "ok": false,
-      "reason": "未找到立绘文件"
-    },
-    "珂蕾妲": {
-      "ok": false,
-      "reason": "未找到立绘文件"
-    },
-    "派派": {
-      "ok": false,
-      "reason": "未找到立绘文件"
-    },
-    "露西": {
-      "ok": true,
-      "file": "露西立绘.png",
-      "size": 751746
-    },
     "11号": {
       "ok": true,
-      "file": "11号立绘.png",
-      "size": 931440
+      "file": "11号.png",
+      "source": "立绘/原皮",
+      "size": 1469480
     },
-    "南宫羽": {
+    "丽娜": {
       "ok": true,
-      "file": "南宫羽-狂想缪斯-立绘.png",
-      "size": 2204053
-    },
-    "千夏": {
-      "ok": true,
-      "file": "千夏-午后茶歇-立绘.png",
-      "size": 2196537
+      "file": "丽娜.png",
+      "source": "立绘/原皮",
+      "size": 1844243
     },
     "仪玄": {
       "ok": true,
-      "file": "仪玄-墨形影踪-立绘.png",
-      "size": 1929066
+      "file": "仪玄.png",
+      "source": "立绘/原皮",
+      "size": 1571541
     },
-    "潘引壶": {
-      "ok": false,
-      "reason": "未找到立绘文件"
+    "伊德海莉": {
+      "ok": true,
+      "file": "伊德海莉.png",
+      "source": "立绘/原皮",
+      "size": 1778074
+    },
+    "伊芙琳": {
+      "ok": true,
+      "file": "伊芙琳.png",
+      "source": "立绘/原皮",
+      "size": 1252852
+    },
+    "佩洛伊斯": {
+      "ok": true,
+      "file": "佩洛伊斯.png",
+      "source": "立绘/原皮",
+      "size": 1549726
+    },
+    "克拉雷": {
+      "ok": true,
+      "file": "克拉雷.png",
+      "source": "立绘/原皮",
+      "size": 3149313
+    },
+    "凯撒": {
+      "ok": true,
+      "file": "凯撒.png",
+      "source": "立绘/原皮",
+      "size": 1248670
+    },
+    "千夏": {
+      "ok": true,
+      "file": "千夏.png",
+      "source": "立绘/原皮",
+      "size": 1010744
+    },
+    "南宫羽": {
+      "ok": true,
+      "file": "南宫羽.png",
+      "source": "立绘/原皮",
+      "size": 1721727
+    },
+    "卢西娅": {
+      "ok": true,
+      "file": "卢西娅.png",
+      "source": "立绘/原皮",
+      "size": 1286700
+    },
+    "可琳": {
+      "ok": true,
+      "file": "可琳.png",
+      "source": "立绘/原皮",
+      "size": 2469835
     },
     "叶瞬光": {
       "ok": true,
-      "file": "叶瞬光-暖霞拾光-立绘.png",
-      "size": 2135338
+      "file": "叶瞬光.png",
+      "source": "立绘/原皮",
+      "size": 2740701
     },
-    "卢西娅": {
-      "ok": false,
-      "reason": "未找到立绘文件"
-    },
-    "蕾米埃尔": {
+    "哲": {
       "ok": true,
-      "file": "蕾米埃尔-影池独舞-立绘.png",
-      "size": 2359587
+      "file": "哲.png",
+      "source": "立绘/原皮",
+      "size": 2216223
     },
-    "诺姆": {
-      "ok": false,
-      "reason": "未找到立绘文件"
+    "奥菲丝&「鬼火」": {
+      "ok": true,
+      "file": "奥菲丝&「鬼火」.png",
+      "source": "立绘/原皮",
+      "size": 1460909
+    },
+    "妮可": {
+      "ok": true,
+      "file": "妮可.png",
+      "source": "立绘/原皮",
+      "size": 2023066
+    },
+    "安东": {
+      "ok": true,
+      "file": "安东.png",
+      "source": "立绘/原皮",
+      "size": 3799528
+    },
+    "安比": {
+      "ok": true,
+      "file": "安比.png",
+      "source": "立绘/原皮",
+      "size": 937464
+    },
+    "希希芙": {
+      "ok": true,
+      "file": "希希芙.png",
+      "source": "立绘/原皮",
+      "size": 1889910
+    },
+    "希格莉德": {
+      "ok": true,
+      "file": "希格莉德.png",
+      "source": "立绘/原皮",
+      "size": 1951556
+    },
+    "席德": {
+      "ok": true,
+      "file": "席德.png",
+      "source": "立绘/原皮",
+      "size": 1190556
+    },
+    "悠真": {
+      "ok": true,
+      "file": "悠真.png",
+      "source": "立绘/原皮",
+      "size": 1567642
+    },
+    "扳机": {
+      "ok": true,
+      "file": "扳机.png",
+      "source": "立绘/原皮",
+      "size": 1632858
+    },
+    "星光比利": {
+      "ok": true,
+      "file": "星光比利.png",
+      "source": "立绘/原皮",
+      "size": 2128278
+    },
+    "星见雅": {
+      "ok": true,
+      "file": "星见雅.png",
+      "source": "立绘/原皮",
+      "size": 1375407
+    },
+    "普罗米亚": {
+      "ok": true,
+      "file": "普罗米亚.png",
+      "source": "立绘/原皮",
+      "size": 2175650
+    },
+    "本": {
+      "ok": true,
+      "file": "本.png",
+      "source": "立绘/原皮",
+      "size": 5539046
+    },
+    "朱鸢": {
+      "ok": true,
+      "file": "朱鸢.png",
+      "source": "立绘/原皮",
+      "size": 2145027
+    },
+    "柏妮思": {
+      "ok": true,
+      "file": "柏妮思.png",
+      "source": "立绘/原皮",
+      "size": 1284664
+    },
+    "柚叶": {
+      "ok": true,
+      "file": "柚叶.png",
+      "source": "立绘/原皮",
+      "size": 1917450
+    },
+    "柳": {
+      "ok": true,
+      "file": "柳.png",
+      "source": "立绘/原皮",
+      "size": 1238727
+    },
+    "格莉丝": {
+      "ok": true,
+      "file": "格莉丝.png",
+      "source": "立绘/原皮",
+      "size": 1690901
+    },
+    "橘福福": {
+      "ok": true,
+      "file": "橘福福.png",
+      "source": "立绘/原皮",
+      "size": 1202246
+    },
+    "比利": {
+      "ok": true,
+      "file": "比利.png",
+      "source": "立绘/原皮",
+      "size": 3107845
+    },
+    "波可娜": {
+      "ok": true,
+      "file": "波可娜.png",
+      "source": "立绘/原皮",
+      "size": 1951422
+    },
+    "派派": {
+      "ok": true,
+      "file": "派派.png",
+      "source": "立绘/原皮",
+      "size": 1211955
+    },
+    "潘引壶": {
+      "ok": true,
+      "file": "潘引壶.png",
+      "source": "立绘/原皮",
+      "size": 2056086
+    },
+    "照": {
+      "ok": true,
+      "file": "照.png",
+      "source": "立绘/原皮",
+      "size": 1361201
+    },
+    "爱丽丝": {
+      "ok": true,
+      "file": "爱丽丝.png",
+      "source": "立绘/原皮",
+      "size": 1298756
+    },
+    "爱芮": {
+      "ok": true,
+      "file": "爱芮.png",
+      "source": "立绘/原皮",
+      "size": 1303330
+    },
+    "猫又": {
+      "ok": true,
+      "file": "猫又.png",
+      "source": "立绘/原皮",
+      "size": 1274547
+    },
+    "珂蕾妲": {
+      "ok": true,
+      "file": "珂蕾妲.png",
+      "source": "立绘/原皮",
+      "size": 1982911
+    },
+    "琉音": {
+      "ok": true,
+      "file": "琉音.png",
+      "source": "立绘/原皮",
+      "size": 1771981
+    },
+    "真斗": {
+      "ok": true,
+      "file": "真斗.png",
+      "source": "立绘/原皮",
+      "size": 2146082
+    },
+    "简": {
+      "ok": true,
+      "file": "简.png",
+      "source": "立绘/原皮",
+      "size": 2225234
     },
     "维琳娜": {
       "ok": true,
-      "file": "维琳娜-暇时闲影-立绘.png",
-      "size": 2182776
+      "file": "维琳娜.png",
+      "source": "立绘/原皮",
+      "size": 1997727
     },
-    "佩洛伊斯": {
-      "ok": false,
-      "reason": "未找到立绘文件"
+    "罗克西": {
+      "ok": true,
+      "file": "罗克西.png",
+      "source": "立绘/原皮",
+      "size": 1545667
     },
-    "照": {
-      "ok": false,
-      "reason": "未找到立绘文件"
+    "耀嘉音": {
+      "ok": true,
+      "file": "耀嘉音.png",
+      "source": "立绘/原皮",
+      "size": 1513589
     },
-    "琉音": {
-      "ok": false,
-      "reason": "未找到立绘文件"
+    "般岳": {
+      "ok": true,
+      "file": "般岳.png",
+      "source": "立绘/原皮",
+      "size": 2235619
+    },
+    "艾莲": {
+      "ok": true,
+      "file": "艾莲.png",
+      "source": "立绘/原皮",
+      "size": 2373148
+    },
+    "苍角": {
+      "ok": true,
+      "file": "苍角.png",
+      "source": "立绘/原皮",
+      "size": 1375495
+    },
+    "莱卡恩": {
+      "ok": true,
+      "file": "莱卡恩.png",
+      "source": "立绘/原皮",
+      "size": 2455297
+    },
+    "莱特": {
+      "ok": true,
+      "file": "莱特.png",
+      "source": "立绘/原皮",
+      "size": 1948512
+    },
+    "蕾米埃尔": {
+      "ok": true,
+      "file": "蕾米埃尔.png",
+      "source": "立绘/原皮",
+      "size": 1370966
+    },
+    "薇薇安": {
+      "ok": true,
+      "file": "薇薇安.png",
+      "source": "立绘/原皮",
+      "size": 2294568
+    },
+    "诺姆": {
+      "ok": true,
+      "file": "诺姆.png",
+      "source": "立绘/原皮",
+      "size": 3368187
+    },
+    "赛斯": {
+      "ok": true,
+      "file": "赛斯.png",
+      "source": "立绘/原皮",
+      "size": 3697242
+    },
+    "铃": {
+      "ok": true,
+      "file": "铃.png",
+      "source": "立绘/原皮",
+      "size": 1425779
+    },
+    "雨果": {
+      "ok": true,
+      "file": "雨果.png",
+      "source": "立绘/原皮",
+      "size": 3538254
+    },
+    "零号·安比": {
+      "ok": true,
+      "file": "零号·安比.png",
+      "source": "立绘/原皮",
+      "size": 1361900
+    },
+    "露西": {
+      "ok": true,
+      "file": "露西.png",
+      "source": "立绘/原皮",
+      "size": 1677139
+    },
+    "青衣": {
+      "ok": true,
+      "file": "青衣.png",
+      "source": "立绘/原皮",
+      "size": 914789
     }
   },
   "reversalCharacters": {
