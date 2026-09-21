@@ -1,0 +1,344 @@
+{
+  "generatedAt": "2026-09-21T02:48:56.349Z",
+  "zzzCharacters": {
+    "妮可": {
+      "ok": true,
+      "file": "妮可立绘.png",
+      "size": 695121
+    },
+    "莱卡恩": {
+      "ok": true,
+      "file": "莱卡恩立绘.png",
+      "size": 634479
+    },
+    "丽娜": {
+      "ok": false,
+      "reason": "未找到立绘文件"
+    },
+    "珂蕾妲": {
+      "ok": false,
+      "reason": "未找到立绘文件"
+    },
+    "派派": {
+      "ok": false,
+      "reason": "未找到立绘文件"
+    },
+    "露西": {
+      "ok": true,
+      "file": "露西立绘.png",
+      "size": 751746
+    },
+    "11号": {
+      "ok": true,
+      "file": "11号立绘.png",
+      "size": 931440
+    },
+    "南宫羽": {
+      "ok": true,
+      "file": "南宫羽-狂想缪斯-立绘.png",
+      "size": 2204053
+    },
+    "千夏": {
+      "ok": true,
+      "file": "千夏-午后茶歇-立绘.png",
+      "size": 2196537
+    },
+    "仪玄": {
+      "ok": true,
+      "file": "仪玄-墨形影踪-立绘.png",
+      "size": 1929066
+    },
+    "潘引壶": {
+      "ok": false,
+      "reason": "未找到立绘文件"
+    },
+    "叶瞬光": {
+      "ok": true,
+      "file": "叶瞬光-暖霞拾光-立绘.png",
+      "size": 2135338
+    },
+    "卢西娅": {
+      "ok": false,
+      "reason": "未找到立绘文件"
+    },
+    "蕾米埃尔": {
+      "ok": true,
+      "file": "蕾米埃尔-影池独舞-立绘.png",
+      "size": 2359587
+    },
+    "诺姆": {
+      "ok": false,
+      "reason": "未找到立绘文件"
+    },
+    "维琳娜": {
+      "ok": true,
+      "file": "维琳娜-暇时闲影-立绘.png",
+      "size": 2182776
+    },
+    "佩洛伊斯": {
+      "ok": false,
+      "reason": "未找到立绘文件"
+    },
+    "照": {
+      "ok": false,
+      "reason": "未找到立绘文件"
+    },
+    "琉音": {
+      "ok": false,
+      "reason": "未找到立绘文件"
+    }
+  },
+  "reversalCharacters": {
+    "零": {
+      "ok": true,
+      "file": "零.png",
+      "size": 398333
+    },
+    "娜娜莉": {
+      "ok": true,
+      "file": "娜娜莉立绘.jpg",
+      "size": 735333
+    },
+    "薄荷": {
+      "ok": true,
+      "file": "薄荷立绘.jpg",
+      "size": 887267
+    },
+    "早雾": {
+      "ok": true,
+      "file": "早雾2.jpg",
+      "size": 549716
+    },
+    "阿德勒": {
+      "ok": true,
+      "file": "阿德勒图鉴背景.png",
+      "size": 874917
+    },
+    "安魂曲": {
+      "ok": true,
+      "file": "安魂曲图鉴背景.png",
+      "size": 825175
+    },
+    "法帝娅": {
+      "ok": true,
+      "file": "法帝娅图鉴背景.png",
+      "size": 666014
+    },
+    "翳": {
+      "ok": true,
+      "file": "翳图鉴背景.png",
+      "size": 678858
+    },
+    "白藏": {
+      "ok": true,
+      "file": "白藏2.jpg",
+      "size": 1173138
+    },
+    "哈索尔": {
+      "ok": true,
+      "file": "哈索尔立绘.jpg",
+      "size": 893315
+    },
+    "浔": {
+      "ok": true,
+      "file": "浔2.jpg",
+      "size": 1297508
+    },
+    "真红": {
+      "ok": false,
+      "reason": "匹配到装饰图，手动补图"
+    },
+    "哈尼娅·克雷斯维尔": {
+      "ok": false,
+      "reason": "未找到图片文件"
+    },
+    "海月": {
+      "ok": true,
+      "file": "海月图鉴背景.png",
+      "size": 1151622
+    },
+    "残虹": {
+      "ok": false,
+      "reason": "未找到图片文件"
+    },
+    "奥涅伊洛伊": {
+      "ok": false,
+      "reason": "未找到图片文件"
+    },
+    "灵可": {
+      "ok": false,
+      "reason": "未找到图片文件"
+    },
+    "黑羽": {
+      "ok": false,
+      "reason": "未找到图片文件"
+    },
+    "明音凛": {
+      "ok": false,
+      "reason": "未找到图片文件"
+    },
+    "埃德嘉": {
+      "ok": true,
+      "file": "埃德嘉图鉴背景.png",
+      "size": 751169
+    },
+    "白夜": {
+      "ok": false,
+      "reason": "未找到图片文件"
+    },
+    "朱莉·冯·克里格": {
+      "ok": false,
+      "reason": "未找到图片文件"
+    },
+    "妮夏": {
+      "ok": false,
+      "reason": "未找到图片文件"
+    }
+  },
+  "zzzSets": {
+    "zzz_inferno_metal": {
+      "ok": true,
+      "name": "炎狱重金属",
+      "file": "驱动盘-炎狱重金属.png",
+      "size": 30762
+    },
+    "zzz_polar_metal": {
+      "ok": true,
+      "name": "极地重金属",
+      "file": "驱动盘-极地重金属.png",
+      "size": 31243
+    },
+    "zzz_thunder_metal": {
+      "ok": true,
+      "name": "雷暴重金属",
+      "file": "驱动盘-雷暴重金属.png",
+      "size": 32416
+    },
+    "zzz_chaos_metal": {
+      "ok": true,
+      "name": "混沌重金属",
+      "file": "驱动盘-混沌重金属.png",
+      "size": 32590
+    },
+    "zzz_fang_metal": {
+      "ok": true,
+      "name": "獠牙重金属",
+      "file": "驱动盘-獠牙重金属.png",
+      "size": 31422
+    },
+    "zzz_hormone_punk": {
+      "ok": true,
+      "name": "激素朋克",
+      "file": "驱动盘-激素朋克.png",
+      "size": 28210
+    },
+    "zzz_woodpecker": {
+      "ok": true,
+      "name": "啄木鸟电音",
+      "file": "驱动盘-啄木鸟电音.png",
+      "size": 31043
+    },
+    "zzz_pufferfish": {
+      "ok": true,
+      "name": "河豚电音",
+      "file": "驱动盘-河豚电音.png",
+      "size": 28858
+    },
+    "zzz_swing_jazz": {
+      "ok": true,
+      "name": "摇摆爵士",
+      "file": "驱动盘-摇摆爵士.png",
+      "size": 34402
+    },
+    "zzz_freedom_blues": {
+      "ok": true,
+      "name": "自由蓝调",
+      "file": "驱动盘-自由蓝调.png",
+      "size": 31012
+    },
+    "zzz_soul_rock": {
+      "ok": true,
+      "name": "灵魂摇滚",
+      "file": "驱动盘-灵魂摇滚.png",
+      "size": 29549
+    },
+    "zzz_shatter_disco": {
+      "ok": true,
+      "name": "震星迪斯科",
+      "file": "驱动盘-震星迪斯科.png",
+      "size": 32559
+    },
+    "zzz_branch_song": {
+      "ok": true,
+      "name": "折枝剑歌",
+      "file": "驱动盘-折枝剑歌.png",
+      "size": 63474
+    },
+    "zzz_serene_song": {
+      "ok": true,
+      "name": "静听嘉音",
+      "file": "驱动盘-静听嘉音.png",
+      "size": 75020
+    },
+    "zzz_phaethon_song": {
+      "ok": true,
+      "name": "法厄同之歌",
+      "file": "驱动盘-法厄同之歌.png",
+      "size": 32458
+    },
+    "zzz_shadow_companion": {
+      "ok": true,
+      "name": "如影相随",
+      "file": "驱动盘-如影相随.png",
+      "size": 34187
+    },
+    "zzz_dawn_blossom": {
+      "ok": true,
+      "name": "拂晓生花",
+      "file": "驱动盘-拂晓生花.png",
+      "size": 38349
+    },
+    "zzz_moonlight_ballad": {
+      "ok": true,
+      "name": "月光骑士颂",
+      "file": "驱动盘-月光骑士颂.png",
+      "size": 38291
+    },
+    "zzz_ocean_ballad": {
+      "ok": true,
+      "name": "沧浪行歌",
+      "file": "驱动盘-沧浪行歌.png",
+      "size": 32607
+    },
+    "zzz_aurora_aria": {
+      "ok": true,
+      "name": "流光咏叹",
+      "file": "驱动盘-流光咏叹.png",
+      "size": 29610
+    },
+    "zzz_howling_salon": {
+      "ok": true,
+      "name": "呼啸沙龙",
+      "file": "驱动盘-呼啸沙龙.png",
+      "size": 33965
+    },
+    "zzz_dawn_chronicle": {
+      "ok": true,
+      "name": "拂晓行纪",
+      "file": "驱动盘-拂晓行纪.png",
+      "size": 33561
+    },
+    "zzz_prophecy_oath": {
+      "ok": true,
+      "name": "谶羽之誓",
+      "file": "驱动盘-谶羽之誓.png",
+      "size": 35963
+    },
+    "zzz_thorn_rose": {
+      "ok": true,
+      "name": "荆棘玫瑰",
+      "file": "驱动盘-荆棘玫瑰.png",
+      "size": 37759
+    }
+  }
+}
