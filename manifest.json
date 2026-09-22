@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T01:30:43.618Z",
+  "generatedAt": "2026-09-22T03:22:38.797Z",
   "zzzCharacters": {
     "11号": {
       "ok": true,
@@ -834,6 +834,30 @@
       "name": "荆棘玫瑰",
       "file": "驱动盘-荆棘玫瑰.png",
       "size": 37759
+    },
+    "zzz_mountain_king": {
+      "ok": true,
+      "name": "山大王",
+      "file": "驱动盘-山大王.png",
+      "size": 38714
+    },
+    "zzz_immovable_self": {
+      "ok": true,
+      "name": "云岿如我",
+      "file": "驱动盘-云岿如我.png",
+      "size": 34219
+    },
+    "zzz_snow_rabbit_wonderland": {
+      "ok": true,
+      "name": "雪兔梦游仙境",
+      "file": "驱动盘-雪兔梦游仙境.png",
+      "size": 29286
+    },
+    "zzz_prisoners_notes": {
+      "ok": true,
+      "name": "囚徒手记",
+      "file": "驱动盘-囚徒手记.png",
+      "size": 30742
     }
   }
 }
