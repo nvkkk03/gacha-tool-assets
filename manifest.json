@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T07:38:32.922Z",
+  "generatedAt": "2026-09-22T01:30:43.618Z",
   "zzzCharacters": {
     "11号": {
       "ok": true,
@@ -619,110 +619,75 @@
     }
   },
   "reversalCharacters": {
-    "零": {
+    "九原": {
       "ok": true,
-      "file": "零.png",
-      "size": 398333
+      "file": "九原.jpg",
+      "size": 3553509
     },
-    "娜娜莉": {
+    "伊洛伊": {
       "ok": true,
-      "file": "娜娜莉立绘.jpg",
-      "size": 735333
-    },
-    "薄荷": {
-      "ok": true,
-      "file": "薄荷立绘.jpg",
-      "size": 887267
-    },
-    "早雾": {
-      "ok": true,
-      "file": "早雾2.jpg",
-      "size": 549716
-    },
-    "阿德勒": {
-      "ok": true,
-      "file": "阿德勒图鉴背景.png",
-      "size": 874917
-    },
-    "安魂曲": {
-      "ok": true,
-      "file": "安魂曲图鉴背景.png",
-      "size": 825175
-    },
-    "法帝娅": {
-      "ok": true,
-      "file": "法帝娅图鉴背景.png",
-      "size": 666014
-    },
-    "翳": {
-      "ok": true,
-      "file": "翳图鉴背景.png",
-      "size": 678858
-    },
-    "白藏": {
-      "ok": true,
-      "file": "白藏2.jpg",
-      "size": 1173138
+      "file": "伊洛伊.jpg",
+      "size": 3486798
     },
     "哈索尔": {
       "ok": true,
-      "file": "哈索尔立绘.jpg",
+      "file": "哈索尔.png",
       "size": 893315
+    },
+    "娜娜莉": {
+      "ok": true,
+      "file": "娜娜莉.png",
+      "size": 735333
+    },
+    "安魂曲": {
+      "ok": true,
+      "file": "安魂曲.jpg",
+      "size": 2896255
+    },
+    "早雾": {
+      "ok": true,
+      "file": "早雾.png",
+      "size": 549716
+    },
+    "残虹": {
+      "ok": true,
+      "file": "残虹.jpg",
+      "size": 1126562
     },
     "浔": {
       "ok": true,
-      "file": "浔2.jpg",
+      "file": "浔.png",
       "size": 1297508
     },
-    "真红": {
-      "ok": false,
-      "reason": "匹配到装饰图，手动补图"
-    },
-    "哈尼娅·克雷斯维尔": {
-      "ok": false,
-      "reason": "未找到图片文件"
-    },
-    "海月": {
-      "ok": true,
-      "file": "海月图鉴背景.png",
-      "size": 1151622
-    },
-    "残虹": {
-      "ok": false,
-      "reason": "未找到图片文件"
-    },
-    "奥涅伊洛伊": {
-      "ok": false,
-      "reason": "未找到图片文件"
-    },
     "灵可": {
-      "ok": false,
-      "reason": "未找到图片文件"
-    },
-    "黑羽": {
-      "ok": false,
-      "reason": "未找到图片文件"
-    },
-    "明音凛": {
-      "ok": false,
-      "reason": "未找到图片文件"
-    },
-    "埃德嘉": {
       "ok": true,
-      "file": "埃德嘉图鉴背景.png",
-      "size": 751169
+      "file": "灵可.jpg",
+      "size": 3641297
     },
-    "白夜": {
-      "ok": false,
-      "reason": "未找到图片文件"
+    "白藏": {
+      "ok": true,
+      "file": "白藏.png",
+      "size": 1173138
     },
-    "朱莉·冯·克里格": {
-      "ok": false,
-      "reason": "未找到图片文件"
+    "真红": {
+      "ok": true,
+      "file": "真红.jpg",
+      "size": 802296
     },
-    "妮夏": {
-      "ok": false,
-      "reason": "未找到图片文件"
+    "薄荷": {
+      "ok": true,
+      "file": "薄荷.png",
+      "size": 887267
+    },
+    "达芙蒂尔": {
+      "ok": true,
+      "file": "达芙蒂尔.jpg",
+      "size": 2671448
+    },
+    "零(女)": {
+      "ok": true,
+      "file": "零(女).jpg",
+      "size": 1692908
     }
   },
   "zzzSets": {
