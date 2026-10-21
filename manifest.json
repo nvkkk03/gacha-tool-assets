@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T03:22:38.797Z",
+  "generatedAt": "2026-10-21T08:08:14.861Z",
   "zzzCharacters": {
     "11号": {
       "ok": true,
@@ -649,6 +649,11 @@
       "file": "早雾.png",
       "size": 549716
     },
+    "明音凛": {
+      "ok": true,
+      "file": "明音凛.png",
+      "size": 496948
+    },
     "残虹": {
       "ok": true,
       "file": "残虹.jpg",
@@ -688,6 +693,11 @@
       "ok": true,
       "file": "零(女).jpg",
       "size": 1692908
+    },
+    "黑羽": {
+      "ok": true,
+      "file": "黑羽.png",
+      "size": 909740
     }
   },
   "zzzSets": {
