@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T08:08:14.861Z",
+  "generatedAt": "2026-10-22T01:46:51.330Z",
   "zzzCharacters": {
     "11号": {
       "ok": true,
@@ -621,13 +621,15 @@
   "reversalCharacters": {
     "九原": {
       "ok": true,
-      "file": "九原.jpg",
-      "size": 3553509
+      "file": "九原.png",
+      "size": 1553400,
+      "source": "https://wiki.mysqil.com/images/characters/jiuyuan.webp"
     },
     "伊洛伊": {
       "ok": true,
-      "file": "伊洛伊.jpg",
-      "size": 3486798
+      "file": "伊洛伊.png",
+      "size": 3465718,
+      "source": "https://wiki.mysqil.com/images/characters/yiluoyi.webp"
     },
     "哈索尔": {
       "ok": true,
@@ -641,8 +643,9 @@
     },
     "安魂曲": {
       "ok": true,
-      "file": "安魂曲.jpg",
-      "size": 2896255
+      "file": "安魂曲.png",
+      "size": 1919342,
+      "source": "https://wiki.mysqil.com/images/characters/anhunqu.webp"
     },
     "早雾": {
       "ok": true,
@@ -652,12 +655,14 @@
     "明音凛": {
       "ok": true,
       "file": "明音凛.png",
-      "size": 496948
+      "size": 3523938,
+      "source": "https://wiki.mysqil.com/images/characters/mingyin.webp"
     },
     "残虹": {
       "ok": true,
-      "file": "残虹.jpg",
-      "size": 1126562
+      "file": "残虹.png",
+      "size": 2085454,
+      "source": "https://wiki.mysqil.com/images/characters/canhong.webp"
     },
     "浔": {
       "ok": true,
@@ -666,8 +671,9 @@
     },
     "灵可": {
       "ok": true,
-      "file": "灵可.jpg",
-      "size": 3641297
+      "file": "灵可.png",
+      "size": 1819742,
+      "source": "https://wiki.mysqil.com/images/characters/lingke.webp"
     },
     "白藏": {
       "ok": true,
@@ -676,8 +682,9 @@
     },
     "真红": {
       "ok": true,
-      "file": "真红.jpg",
-      "size": 802296
+      "file": "真红.png",
+      "size": 2451086,
+      "source": "https://wiki.mysqil.com/images/characters/zhenhong.webp"
     },
     "薄荷": {
       "ok": true,
@@ -686,18 +693,69 @@
     },
     "达芙蒂尔": {
       "ok": true,
-      "file": "达芙蒂尔.jpg",
-      "size": 2671448
+      "file": "达芙蒂尔.png",
+      "size": 2435482,
+      "source": "https://wiki.mysqil.com/images/characters/dafutier.webp"
     },
     "零(女)": {
       "ok": true,
-      "file": "零(女).jpg",
-      "size": 1692908
+      "file": "零(女).png",
+      "size": 1610875,
+      "source": "https://wiki.mysqil.com/images/characters/ling.webp"
     },
     "黑羽": {
       "ok": true,
       "file": "黑羽.png",
-      "size": 909740
+      "size": 6284011,
+      "source": "https://wiki.mysqil.com/images/characters/heiyu.webp"
+    },
+    "哈尼娅": {
+      "ok": true,
+      "file": "哈尼娅.png",
+      "size": 2617538,
+      "source": "https://wiki.mysqil.com/images/characters/haniya.webp"
+    },
+    "埃德嘉": {
+      "ok": true,
+      "file": "埃德嘉.png",
+      "size": 3296745,
+      "source": "https://wiki.mysqil.com/images/characters/edjia.webp"
+    },
+    "海月": {
+      "ok": true,
+      "file": "海月.png",
+      "size": 3292122,
+      "source": "https://wiki.mysqil.com/images/characters/haiyue.webp"
+    },
+    "翳": {
+      "ok": true,
+      "file": "翳.png",
+      "size": 4637913,
+      "source": "https://wiki.mysqil.com/images/characters/yi.webp"
+    },
+    "阿德勒": {
+      "ok": true,
+      "file": "阿德勒.png",
+      "size": 3979274,
+      "source": "https://wiki.mysqil.com/images/characters/adeler.webp"
+    },
+    "卡厄斯": {
+      "ok": true,
+      "file": "卡厄斯.png",
+      "size": 1919787,
+      "source": "https://wiki.mysqil.com/images/characters/kaesi.webp"
+    },
+    "小吱": {
+      "ok": true,
+      "file": "小吱.png",
+      "size": 2704360,
+      "source": "https://wiki.mysqil.com/images/characters/xiaozhi.webp"
+    },
+    "法帝娅": {
+      "ok": true,
+      "file": "法帝娅.png",
+      "size": 2879382,
+      "source": "https://wiki.mysqil.com/images/characters/fadiya.webp"
     }
   },
   "zzzSets": {
